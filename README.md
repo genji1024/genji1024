@@ -1,8 +1,6 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genji1024&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=genji1024&show_icons=ture" />
-</p>
+# genji1024
 
-![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genji1024)
+Senior Engineer at [Fixstars](https://www.fixstars.com/en).
+Off the clock, I build small, self-hosted software for people I trust, with AI agents I don't have to.
 
-![trophy](https://github-profile-trophy.vercel.app/?username=genji1024&rank=-?)
+<samp><a href="https://github.com/genji1024">github</a></samp>
